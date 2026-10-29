@@ -1,0 +1,23 @@
+[
+  {
+    "id": "B001",
+    "title": "Sistem Kendali Digital",
+    "author": "Katsuhiko Ogata",
+    "replacementPrice": 450000.0,
+    "isAvailable": true
+  },
+  {
+    "id": "B002",
+    "title": "Microprocessors and Interfacing",
+    "author": "Douglas V. Hall",
+    "replacementPrice": 300000.0,
+    "isAvailable": true
+  },
+  {
+    "id": "B003",
+    "title": "Signals and Systems",
+    "author": "Alan V. Oppenheim",
+    "replacementPrice": 500000.0,
+    "isAvailable": true
+  }
+]
